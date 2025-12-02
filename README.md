@@ -8,6 +8,8 @@ products:
 - azure-app-service
 ---
 
+## Follow the QUICKSTART guide to deploy the sample app with PGSQL DB
+
 # Python Flask sample for Azure App Service (Linux)
 
 This is a minimal Flask app that can be deployed to Azure App Service on Linux.
